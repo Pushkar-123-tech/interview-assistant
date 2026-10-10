@@ -1,0 +1,6 @@
+torch==2.13.0
+transformers==5.17.0
+pypdf
+python-docx
+pandas
+datasets

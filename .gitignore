@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+Frontend/dist/
+Backend/dist/
+*.log
+
+/ml_training/resume_extraction/raw data/resumes/
